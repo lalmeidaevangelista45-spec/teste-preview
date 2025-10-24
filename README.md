@@ -23,7 +23,7 @@
       Use esse endereço apenas para testar previews e comportamento de links.
     </p>
     <div style="display:flex;gap:8px;justify-content:center">
-      <a href="https://roblox.com" target="_blank" 
+      <a href="https://www.roblox.com/account/signup" target="_blank" 
          style="text-decoration:none;padding:10px 16px;border-radius:8px;border:1px solid #d0d7df;color:#1f6feb">
          Abrir (Teste)
       </a>
@@ -31,7 +31,3 @@
   </div>
 </body>
 </html>
-
-
-
-
